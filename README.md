@@ -7,7 +7,6 @@ An in-depth statistical study to determine significant differences in heartbeat 
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Examples](#examples)
 
 ## Project Description
 The objective of this project is to determine if there are significant differences in heartbeat rates across different treatment groups. Using **ANOVA** for robust statistical evaluation, we assess if observed differences are meaningful or due to random variation. Confounders such as age, gender, and smoking status are accounted for to isolate the treatment effect.
