@@ -32,7 +32,7 @@ The objective of this project is to determine if there are significant differenc
 
 3.Run ANOVA to analyze the impact of independent variables on heartbeat rate.
 
-##Sample Code:
+# Sample Code:
 To perform the analysis, load the necessary R libraries and run:
    ```r
       source("main.R")
