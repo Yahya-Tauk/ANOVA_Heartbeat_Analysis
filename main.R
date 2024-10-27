@@ -3,7 +3,7 @@ library(car)  # For Levene's test and variance inflation factors
 library(ggplot2)  # For visualization
 
 # Read the dataset from the CSV file
-data <- read.csv("C:\\Users\\tauky\\OneDrive\\Documents\\TP_R_Simulation\\dataset_final.csv")
+data <- read.csv("dataset_final.csv")
 head(data)
 # Assuming 'data' is your dataframe, 'heart_rate' is your dependent variable,
 # 'sex', 'current_smoker', and 'age_category' are your independent variables,
